@@ -1,0 +1,32 @@
+title: "Web3 Security Vulnerabilities Blog"
+tagline: "Analyzing exploits, vulnerabilities, and secure coding in Web3"
+description: "Exploring Web3 exploits, vulnerabilities, and secure coding through the lens of finance, development, and security auditing."
+baseurl: "/Web3-Security-Vulnerabilities-Blog"
+url: "https://jp2308.github.io"
+
+# Theme
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Markdown and syntax highlighting
+markdown: kramdown
+highlighter: rouge
+
+# Theme options
+show_downloads: false
+
+# Optional defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
