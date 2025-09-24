@@ -1,6 +1,6 @@
 ---
 title: "Morpho Governance Exploit: A Deep Dive into DelegateKey Vulnerabilities"
-date: 2025-04-1214
+date: 2025-04-21
 categories: [DeFi, Morpho, Threat Intelligence, Infrastructure]
 ---
 
